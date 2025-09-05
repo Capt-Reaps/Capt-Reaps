@@ -35,7 +35,7 @@
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Capt-Reaps&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Capt-Reaps&layout=compact&theme=default)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Capt-Reaps&show_icons=true&theme=default)
 <!---
 Capt-Reaps/Capt-Reaps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
