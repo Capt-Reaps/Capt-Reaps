@@ -20,19 +20,19 @@
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <img src="https://img.shields.io/badge/-C-2D3899?style=flat&logo=c&logoColor=white" alt="C Badge" height="30"/>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5 Badge" height="30"/>
-    <img src="https://img.shields.io/badge/-JAVA-E34F26?style=flat&logo=java&logoColor=white" alt="Java Badge" height="30"/>
-    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP Badge" height="30"/>
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL Badge" height="30"/>
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma Badge" height="30"/>
-    <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva Badge" height="30"/>
-    <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop Badge" height="30"/>
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="30"/>
-    <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino Badge" height="30"/>
-    <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="Cisco Badge" height="30"/>
+    <img src="https://img.shields.io/badge/-C-2D3899?style=flat&logo=c&logoColor=white" alt="C Badge" height="80"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5 Badge" height="80"/>
+    <img src="https://img.shields.io/badge/-JAVA-E34F26?style=flat&logo=java&logoColor=white" alt="Java Badge" height="80"/>
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP Badge" height="80"/>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL Badge" height="80"/>
+    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma Badge" height="80"/>
+    <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva Badge" height="80"/>
+    <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop Badge" height="80"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="80"/>
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino Badge" height="80"/>
+    <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="Cisco Badge" height="80"/>
 <!--     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap Badge" height="25"/> -->
-    <img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=apache&logoColor=white" alt="XAMPP Badge" height="30"/>
+    <img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=apache&logoColor=white" alt="XAMPP Badge" height="80"/>
 </div>
 
 ---
