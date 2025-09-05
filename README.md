@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/view/pepe-cry-reading-pepe-the-frog-sad-gif-17607942" alt="Your GIF"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmN1MGg1dmZyZ2RhejJqYjhjZzVpd2R3eDhudnhiZHFiaWx4YWJmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xoi6nNqJQJ95Qc/giphy.gif" alt="Your GIF"/>
 </div>
 
 
