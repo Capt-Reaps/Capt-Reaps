@@ -32,6 +32,9 @@
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
     <img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=apache&logoColor=white" alt="XAMPP Badge"/>
 </div>
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Capt-Reaps&theme=dark)
 <!---
 Capt-Reaps/Capt-Reaps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
