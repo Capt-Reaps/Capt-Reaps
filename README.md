@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino Badge"/>
     <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="Cisco Badge"/>
-    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
+<!--     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/> -->
     <img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=apache&logoColor=white" alt="XAMPP Badge"/>
 </div>
 
