@@ -15,6 +15,7 @@
 - ⚡ **Fun fact:** I'm Handsome
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Capt-Reaps&color=red)
 
 ### 💻 My Tech Stack
 
