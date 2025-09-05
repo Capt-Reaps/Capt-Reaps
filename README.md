@@ -1,22 +1,24 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmN1MGg1dmZyZ2RhejJqYjhjZzVpd2R3eDhudnhiZHFiaWx4YWJmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xoi6nNqJQJ95Qc/giphy.gif" alt="Your GIF"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmN1MGg1dmZyZ2RhejJqYjhjZzVpd2R3eDhudnhiZHFiaWx4YWJmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xoi6nNqJQJ95Qc/giphy.gif" alt="Animated Welcome GIF" width="400"/>
+  <h1>👋 Hi, I'm @Capt-Reaps!</h1>
 </div>
 
+---
 
-- 👋 Hi, I’m @Capt-Reaps
-- 👀 I’m interested in Programming, Crypto and Web3
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me just email me with my account here!
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm Handsome
+### About Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=Capt-Reaps&color=red)
+- 👀 I’m interested in **Programming**, **Crypto**, and **Web3**.
+- 🌱 I’m currently learning **Java**.
+- 💞️ I’m looking to **collaborate on a project**.
+- 📫 **How to reach me:** Just email me with my account here!
+- 😄 **Pronouns:** He/him
+- ⚡ **Fun fact:** I'm Handsome
 
+---
 
-### Tech Stack:
+### 💻 My Tech Stack
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <img src="https://img.shields.io/badge/-C-2D3899?style=flat&logo=c&logoColor=white" alt="C Badge"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5 Badge"/>
     <img src="https://img.shields.io/badge/-JAVA-E34F26?style=flat&logo=java&logoColor=white" alt="Java Badge"/>
@@ -28,15 +30,16 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino Badge"/>
     <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="Cisco Badge"/>
-<!--     <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS Badge"/> -->
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
     <img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=apache&logoColor=white" alt="XAMPP Badge"/>
 </div>
 
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Capt-Reaps&theme=dark)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Capt-Reaps&show_icons=true&theme=default)
-<!---
-Capt-Reaps/Capt-Reaps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Capt-Reaps&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00&border_color=00000000" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Capt-Reaps&theme=dark&hide_border=true&bg_color=0d111700" alt="GitHub Streak"/>
+</div>
