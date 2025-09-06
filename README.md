@@ -12,7 +12,7 @@
 - 💞️ I’m looking to **collaborate on a project**.
 - 📫 **How to reach me:** Just email me with my account here!
 - 😄 **Pronouns:** He/him
-- ⚡ **Fun fact:** I'm Handsome
+
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=Capt-Reaps&color=red)
