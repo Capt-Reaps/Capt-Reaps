@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmN1MGg1dmZyZ2RhejJqYjhjZzVpd2R3eDhudnhiZHFiaWx4YWJmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xoi6nNqJQJ95Qc/giphy.gif" alt="Animated Welcome GIF" width="400"/>
-  <h1>👋 Hi, I'm @Capt-Reaps!</h1>
+  <h1>👋 Hi, I'm Ivan Mejorada!</h1>
 </div>
 
 ---
