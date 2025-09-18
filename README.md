@@ -42,9 +42,9 @@
 
 <div align="center">
 
-<img src="https://YOUR_VERCEL_APP_URL/api?username=Capt-Reaps&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00" alt="Ivan Mejorada's GitHub Stats"/>
+<img src="https://github-readme-stats-eight-kappa-71.vercel.app/api?username=Capt-Reaps&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00" alt="Ivan Mejorada's GitHub Stats"/>
 
-<img src="https://YOUR_VERCEL_APP_URL/api/top-langs/?username=Capt-Reaps&layout=compact&theme=default&hide_border=true&bg_color=ffffff00" alt="Ivan Mejorada's Top Languages"/>
+<img src="https://github-readme-stats-eight-kappa-71.vercel.app/api/top-langs/?username=Capt-Reaps&layout=compact&theme=default&hide_border=true&bg_color=ffffff00" alt="Ivan Mejorada's Top Languages"/>
 
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Capt-Reaps&theme=dark&hide_border=true&bg_color=0d111700" alt="Ivan Mejorada's GitHub Streak"/>
